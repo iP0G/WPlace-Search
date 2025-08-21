@@ -1,4 +1,4 @@
-javascript:(async () => {
+(async () => {
   const CONFIG = {
     DELAY: 1, // delay between pixel requests (ms)
     THEME: {
